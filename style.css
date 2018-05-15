@@ -55,12 +55,17 @@ html, body {
 
 .city, .timestamp {
   color: #3a3a3a;
-  padding-bottom: 4px;
+  overflow: auto;
 }
 
 .timestamp {
   float: right;
 }
+
+.headline {
+  margin-top: 5px;
+}
+
 
 #place {
   float: left;
