@@ -35,7 +35,7 @@ html, body {
 .endorsement {
   position:relative;
   width: 85%;
-  height: 50px;
+  height: 100px;
   background-color: #8cc0cc;
   display: inline-block;
   font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
